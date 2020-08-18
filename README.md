@@ -1,2 +1,7 @@
-# PTT_search-engine
-Taiwan knowledge base web crawler
+# PTT_搜尋引擎
+
+初版功能：
+1.自定義搜尋看板（無18歲以上看板功能）
+2.自定義搜尋關鍵字
+3.自定義文章日期區間
+4.程式結束另存為.csv檔
